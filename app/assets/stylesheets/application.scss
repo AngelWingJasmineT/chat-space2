@@ -6,4 +6,6 @@
 @import "mixins/vendor_prefix";
 @import "modules/side_bar";
 @import "modules/chat";
-@import "messages/messages.scss"
+@import "messages/messages.scss";
+@import "user.scss";
+@import "modules/flash";
